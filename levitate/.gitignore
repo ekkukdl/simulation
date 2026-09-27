@@ -1,0 +1,9 @@
+levitate.egg-info
+build
+*.npy
+*.dat
+*.pyc
+.ipynb_checkpoints/
+.eggs/
+.pytest_cache/
+.coverage
